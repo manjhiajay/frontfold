@@ -1,0 +1,100 @@
+body {
+  background-color: #000063;
+}
+
+a {
+  color: white;
+  font-size: 2.5rem;
+  text-decoration: none;
+  letter-spacing: 0.1rem;
+  padding-right: 1rem;
+}
+
+a:hover {
+  color: yellow;
+}
+
+.navbar--fold {
+  margin-left: 10rem;
+  margin-right: 30rem;
+}
+
+.navbar--fold--link--one {
+  font-size: 1.5rem;
+}
+
+.newfeature {
+  margin-top: 8rem;
+  margin-left: 5rem;
+  color: lightblue;
+  font-size: 1.3rem;
+}
+
+h5 {
+  margin-bottom: 0rem;
+}
+
+h4 {
+  color: white;
+  font-size: 2.8rem;
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+}
+
+.linebreaknetwork {
+  display: block;
+  margin-bottom: 0rem;
+}
+
+h3 {
+  color: white;
+  margin-left: 5rem;
+  margin-top: 1rem;
+}
+
+.text--technology {
+  display: block;
+}
+
+.button {
+  margin-left: 5rem;
+}
+
+.buttonstyle {
+  width: 40px;
+}
+
+.wrapper-fluid {
+  width: 20rem;
+  height: 25rem;
+  background-color: white;
+  float: right;
+  margin-top: -18rem;
+  margin-right: 15rem;
+  border-radius: 0.8rem;
+}
+.wrapper-fluid .form {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.inputtext {
+  width: 16rem;
+  border-top: 0rem;
+  border-left: 0rem;
+  border-right: 0rem;
+  margin-bottom: 1rem;
+}
+
+.inputtext:hover {
+  border-color: yellow;
+}
+
+.label {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.buttonstyle:hover {
+  color: lime;
+}
